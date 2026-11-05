@@ -43,7 +43,7 @@ Analyze international calling plan usage range and compared churn and non-churne
 - Analyzed 4250 customers and identified an overall 42% churn rate for international plan subscriber, whereas 11% churn rate for non-international plan. 
 - By performing segmented analysis, the highest curn rate is for area code 510 which is 15.06%, followed by area code 408 churn rate at 14%, and lowest churn rate at area code 415 13.61%.
 - Customer with high usage of voicemail plan has an 8% churn rate, compared with medium usgae which of 5%, and 0% for low usage.
-- 
+  
 
 
 

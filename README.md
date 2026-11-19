@@ -1,4 +1,4 @@
-**Telecommunication Churn Analysis**
+# Telecommunication Churn Analysis
 
 **Project Overview:**
 Telecom Customer Churn Analysis using Excel to identify churn patterns, analyze customer behavior, segment usage patterns, and generate data-driven retention insights. The Telecommunication analysis focuses on understanding customer behaviour and identifying factors that associated with customer attrition. The analysis is performed by using Microsoft Excel to explore customer account details, service usage patterns, subscription plans, and international call services.
